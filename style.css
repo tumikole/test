@@ -1,0 +1,22 @@
+* {
+    padding: 0%;
+    margin: 0%:
+}
+body {
+    background-color: aquamarine;
+}
+
+#form {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt9u5se1LdOO7dpxlpYcFdDwgmgqfXtNwnIg&usqp=CAU");
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+    width:35%;
+    gap: 1em;
+}
+
+#subBtn {
+    width: 10%;
+    margin: auto;
+}
